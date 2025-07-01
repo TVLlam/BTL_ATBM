@@ -72,21 +72,26 @@ Quy trình đảm bảo:
 ## 🖥️ Giao diện và hoạt động
 
 ### Trang chính
+
 - **Trang đăng ký và đăng nhập**
+  
   <img src="Screenshot 2025-07-01 165121.png" alt="Main App Interface" width="800">
-<br>
+
+
 - **Dashboard**
+  
   <img src="Screenshot 2025-07-01 165202.png" alt="Main App Interface" width="800">
-<br>
+
 - **Trang upload file**
+  
   <img src="Screenshot 2025-07-01 165225.png" alt="Main App Interface" width="800">
-<br>
+
 - **Trang lịch sử giao dịch**
+  
   <img src="Screenshot 2025-07-01 165310.png" alt="Main App Interface" width="800">
-<br>
 
 - **Quản lý khóa**
+  
   <img src="Screenshot 2025-07-01 165415.png" alt="Main App Interface" width="800">
-<br>
 
 
