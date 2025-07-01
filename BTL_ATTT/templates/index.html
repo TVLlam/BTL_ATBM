@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-body text-center p-5">
+                <div class="mb-4">
+                    <i class="fas fa-shield-alt fa-5x text-primary mb-3"></i>
+                    <h1 class="display-4 fw-bold text-primary">Hệ thống nộp bài tập lớn an toàn</h1>
+                    <p class="lead text-muted">Giải pháp bảo mật toàn diện cho việc nộp và chấm bài tập</p>
+                </div>
+
+                <div class="row mb-4">
+                    <div class="col-md-4">
+                        <div class="p-3">
+                            <i class="fas fa-lock fa-3x text-success mb-3"></i>
+                            <h5>Mã hóa RSA + DES</h5>
+                            <p class="text-muted">Bảo mật dữ liệu với thuật toán mã hóa mạnh</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="p-3">
+                            <i class="fas fa-signature fa-3x text-warning mb-3"></i>
+                            <h5>Chữ ký số</h5>
+                            <p class="text-muted">Xác thực nguồn gốc và tính toàn vẹn</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="p-3">
+                            <i class="fas fa-chart-line fa-3x text-info mb-3"></i>
+                            <h5>Theo dõi tiến trình</h5>
+                            <p class="text-muted">Cập nhật trạng thái thời gian thực</p>
+                        </div>
+                    </div>
+                </div>
+
+                {% if not session.user %}
+                <div class="d-grid gap-2 d-md-flex justify-content-md-center">
+                    <a href="{{ url_for('login') }}" class="btn btn-primary btn-lg me-md-2">
+                        <i class="fas fa-sign-in-alt me-2"></i>Đăng nhập
+                    </a>
+                    <a href="{{ url_for('register') }}" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-user-plus me-2"></i>Đăng ký
+                    </a>
+                </div>
+                {% else %}
+                <div class="d-grid gap-2 d-md-flex justify-content-md-center">
+                    <a href="{{ url_for('dashboard') }}" class="btn btn-primary btn-lg">
+                        <i class="fas fa-home me-2"></i>Vào hệ thống
+                    </a>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h5 class="mb-0"><i class="fas fa-info-circle me-2"></i>Quy trình hoạt động</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-3 text-center mb-3">
+                        <div class="bg-light p-3 rounded">
+                            <i class="fas fa-user-graduate fa-2x text-primary mb-2"></i>
+                            <h6>1. Giảng viên đăng ký</h6>
+                            <small class="text-muted">Tạo tài khoản và quản lý khóa RSA</small>
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-center mb-3">
+                        <div class="bg-light p-3 rounded">
+                            <i class="fas fa-file-upload fa-2x text-success mb-2"></i>
+                            <h6>2. Gửi file bài tập</h6>
+                            <small class="text-muted">Mã hóa và ký số tự động</small>
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-center mb-3">
+                        <div class="bg-light p-3 rounded">
+                            <i class="fas fa-server fa-2x text-warning mb-2"></i>
+                            <h6>3. Hệ thống xử lý</h6>
+                            <small class="text-muted">Xác thực và giải mã an toàn</small>
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-center mb-3">
+                        <div class="bg-light p-3 rounded">
+                            <i class="fas fa-check-circle fa-2x text-info mb-2"></i>
+                            <h6>4. Hoàn thành</h6>
+                            <small class="text-muted">Lưu trữ và sẵn sàng chấm điểm</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

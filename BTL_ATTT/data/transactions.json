@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1e9872f5a0092876796ff288ed308820",
+    "username": "lam123",
+    "filename": "lam123_text.txt",
+    "timestamp": "2025-06-27T13:25:08.563464",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "KdOqmjAEtUOoeIoKccdSDEHu+uRj0zD57+V7HU/u9ULDrhGHeRkPWYGZ2pUbLnox1lmRWquWPks2aWp/TKCR5yN69gTLWlKklpt1T0St9Uw6yGTSgICTLzm0ttY8PN6gqiu1qoGi8xTKhxuE+AjrbMe7+T1Uu2+FTGL0rYNwEe4=",
+    "file_size": 162
+  },
+  {
+    "id": "9f1dc21f57eeca7a6ecd94586604913d",
+    "username": "lam123",
+    "filename": "lam123_text.txt",
+    "timestamp": "2025-06-27T13:25:08.452908",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "KdOqmjAEtUOoeIoKccdSDEHu+uRj0zD57+V7HU/u9ULDrhGHeRkPWYGZ2pUbLnox1lmRWquWPks2aWp/TKCR5yN69gTLWlKklpt1T0St9Uw6yGTSgICTLzm0ttY8PN6gqiu1qoGi8xTKhxuE+AjrbMe7+T1Uu2+FTGL0rYNwEe4=",
+    "file_size": 162
+  },
+  {
+    "id": "10ae422d495e7cd1e5c06396c74427fb",
+    "username": "lam123",
+    "filename": "lam123_text.txt",
+    "timestamp": "2025-06-27T13:25:55.097034",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "no1xkPbauq7Bzt3f887PBlvgYBXrKgDB/emzx00H7SGPEsuFb3fTukT1/dTgCB+Ra51NGjW6oqqvY8hslUvGnPlgrtcewPr9eVa5HRYKclGeH1pJLbyQe4XuhmhZN9i5mrEe1CbtQyZ0SFvrxljY9pltzigbeFGMk4aA3+Dcems=",
+    "file_size": 162
+  },
+  {
+    "id": "d4c85877a68c159962039d6773290cab",
+    "username": "lam123",
+    "filename": "lam123_text.txt",
+    "timestamp": "2025-06-27T13:25:55.000054",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "no1xkPbauq7Bzt3f887PBlvgYBXrKgDB/emzx00H7SGPEsuFb3fTukT1/dTgCB+Ra51NGjW6oqqvY8hslUvGnPlgrtcewPr9eVa5HRYKclGeH1pJLbyQe4XuhmhZN9i5mrEe1CbtQyZ0SFvrxljY9pltzigbeFGMk4aA3+Dcems=",
+    "file_size": 162
+  },
+  {
+    "id": "1033508b65d66cabc0d6ae977db64cef",
+    "username": "lam123",
+    "filename": "lam123_text.txt_1751006437.txt",
+    "timestamp": "2025-06-27T13:40:37.926935",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "15X67VCHADkFldBX/yeTwGUHxYwmX+XrHg/so8v0SXKBfmN4xk4UrkoaB8cs4HhTD8YRx3rFffuL1DDZTklEIN6P+fJSifvYFXPfsUNRklUH/66S9bkjqA+mdUTGZi8Z65Kdv6QZ2FFoPUkdHBF8N4cXP/CxKDDL/yOeJVpYlFE=",
+    "file_size": 162
+  },
+  {
+    "id": "6efef3a5e52bee4de68dd7f792b48230",
+    "username": "thine",
+    "filename": "thine_text.txt_1751007860.txt",
+    "timestamp": "2025-06-27T14:04:20.172060",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "P9uGMUa4CujB0L5AW8zKjIjceoLhCoTJ06dRD+yFmwFbXiRSWIYQEdlb5vWLVq5GbCCRoWdrDZfipXCY2v5Os8KCdLx0a8n5rEuLuytyk6sMauF0u0UE2frNLkxPmG4k3eymGc3H/3brNf1InN9eERley1KsvrU4rD3sjDOWoBw=",
+    "file_size": 162
+  },
+  {
+    "id": "6fb8bcce935e6feea72f57ec1284a089",
+    "username": "thithi",
+    "filename": "thithi_DuAn9.txt_1751008162.txt",
+    "timestamp": "2025-06-27T14:09:22.177227",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "uou9jnZfXFCUPMvPKTYh9MSay+C0FuBSTG4Qq38DssJ0rez653UnQ+zt/IgavtgX4t4MZyhY/Tdzp995duDOLmagfPArkekAucz1jNaoIRdtCiZdxEtoy/uh74a440c8OMF1A/5VcJUJkUnpPpg1qY3re90aa0FS+rhdEQ1v/Kw=",
+    "file_size": 7832
+  },
+  {
+    "id": "d2b755b05f16d2e868ccade0af048f63",
+    "username": "h201",
+    "filename": "h201_assignment_xlarge.txt_1751294373.txt",
+    "timestamp": "2025-06-30T21:39:33.284442",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "SwMDlZ4FhhV0pbueDxIh03jB52ofRSsdUaMcFmpJB5a5jmIDkQvjnTB2o0BKLCgKxL4uLNT0jce1F8gWyMFl+xl+D+N6MD9DWu65NeYtgYIdHZ2ivaJ8i1et8kCu8GNRRdvEZjw0u0KK3gAtLM/UC1iV4r7zpMWkHBsLths8fT0=",
+    "file_size": 104060
+  },
+  {
+    "id": "d3d4f985cab244c296c561ee1873a516",
+    "username": "h201",
+    "filename": "h201_assignment_small.txt_1751294381.txt",
+    "timestamp": "2025-06-30T21:39:41.782438",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "27Vp75lIu9r8zi0WXAaMmppLIkmNVr7z/8m1sYampMKFSno9Xn71jIlWvz1XXb5u7cVxcdCds+lLPArVyVECka095M72zevvgt7EXqZtN18/2cn6L6vmzOivVkjkqbd7q/eemT0TaZYH78FGDWVIlXWXbBYEmn16vUotIEF2AfU=",
+    "file_size": 521
+  },
+  {
+    "id": "5a594602e0c35f8a4aeadf502ed14a5e",
+    "username": "lam05",
+    "filename": "lam05_assignment_xlarge.txt_1751294595.txt",
+    "timestamp": "2025-06-30T21:43:15.534704",
+    "status": "success",
+    "parts": 3,
+    "encrypted_session_key": "V12Xow9h923ChsDkx0Z+wQi5kgNHz0yTNk7tmq6yROUMrfryjnvaSu+WPChKpNNu5QpCBuXHW1EYd73pRxbMv45qpmj/rvIx//POSTva1F/bkLWZgOiIhzbEwsRoKdlQPnrgxsUN45dLPowZPH3uLu8PRig0Y2tOsGoIzII7LHA=",
+    "file_size": 104060
+  }
+]
